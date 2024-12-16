@@ -1,0 +1,68 @@
+ /* p{
+    color: turquoise;
+    background-color: bisque;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-style: initial;
+    text-transform: capitalize;
+    letter-spacing: 10px;
+    line-height: 50px;
+    text-align: center; */
+
+
+
+
+
+
+
+
+ }
+
+
+
+
+
+
+
+.vacation_paragraph{
+    width: 30%;
+}
+
+
+
+
+
+
+
+.vacation{
+    width: 30%;
+    border: 30px;
+    border-color: blue;
+
+}
+.vacation_image{
+    width: 100%;
+    border-radius: 50px;
+}
+.vacation_image{
+height: 150px;
+
+
+
+}
+.vacation_container{
+display: flex; 
+flex-wrap: wrap;
+justify-content: space-evenly;
+margin-top: 30px;
+
+
+
+
+
+
+
+
+
+
